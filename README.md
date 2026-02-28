@@ -158,11 +158,6 @@ Frontend runs on:
 http://localhost:3000
 ```
 
-
-
-
-## Usage
-
 ## Usage
 
 ### 1. Start the Backend
