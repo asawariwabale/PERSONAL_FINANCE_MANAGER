@@ -25,8 +25,8 @@ This project demonstrates full-stack development skills including REST API creat
   Delete or update transactions.
 
   - **Category Management**
-    Users can:
 
-Create custom categories (e.g., Rent, Groceries, Salary, Utilities) Delete categories Assign categories to transactions
+     Users can:
+  Create custom categories (e.g., Rent, Groceries, Salary, Utilities) Delete categories Assign categories to transactions
 
    
