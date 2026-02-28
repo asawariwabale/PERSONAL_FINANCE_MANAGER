@@ -35,10 +35,10 @@ This project demonstrates full-stack development skills including REST API creat
     View account details Manage personal information  Secure user-specific data access
 
   - **Dashboard Statistics**
-   - Total Income
-   - Total Expenses
-   - Current Balance
-   - Summary cards for quick overview
+     - Total Income
+     - Total Expenses
+     - Current Balance
+     - Summary cards for quick overview
 
    - **Transaction Filters**
      - Filter by income or expense
