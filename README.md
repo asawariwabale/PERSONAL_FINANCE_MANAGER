@@ -110,6 +110,100 @@ cd Personal-Finance-Manager
     - Select the backend folder
     - Click **Finish**
 
+## 3. **Configure Database**
+```code
+ src/main/resources/application.properties
+```
+```properties
+spring.application.name=Personal_Finance_Manager_1
+
+server.port=8086
+spring.datasource.url=jdbc:mysql://localhost:3307/Personal_finance_Manager1 
+spring.datasource.username=root
+spring.datasource.password=root@123
+
+spring.jpa.open-in-view=false
+spring.jpa.hibernate.ddl-auto=update
+```
+## 4.Run Backend
+
+Right click on:
+ ```code
+   PersonalFinanceManagerApplication.java
+```
+Click:
+```code
+Run As → Spring Boot App
+```
+Backend runs on:
+``` code
+http://localhost:8086
+```
+
+🔹 **Frontend Setup (React)**
+## 5. Install Frontend Dependencies
+```Bash
+cd  fianancemanager
+npm install
+```
+
+## 6.Start Frontend
+
+```Bash
+   npm start
+```
+Frontend runs on:
+
+```Code
+http://localhost:3000
+```
+
+
+
+
+## Usage
+
+## Usage
+
+### 1. Start the Backend
+From the `backend` directory:
+```bash
+mvn spring-boot:run
+```
+- By default, runs on http://localhost:8086`
+
+### Using Eclipse IDE
+
+1.Open the project in Eclipse
+2.Right-click on
+```
+PersonalFinanceManagerApplication.java
+```
+3. Click:
+   **Run As → Spring Boot App**
+
+ Backend will start on:
+ ```Code
+     http://localhost:8086
+```
+
+### 2. Start the Frontend
+
+Open a new terminal in the `frontend` directory:
+```bash
+npm start
+```
+- By default, runs on `http://localhost:3000`
+
+  ### 3. Access the Application
+  Open your browser at `http://localhost:3000`. You can sign up for a new account or log in if  you already have one.
+  
+
+
+
+
+
+
 
 
 
