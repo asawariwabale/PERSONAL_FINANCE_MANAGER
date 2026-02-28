@@ -54,7 +54,11 @@ This project demonstrates full-stack development skills including REST API creat
       - Fully responsive for desktop and mobile devices
       - Clean and user-friendly interface
 
-        
-    
+## Tech Stack
+
+- **Backend**
+  
+🔹 Backend
+
 
    
