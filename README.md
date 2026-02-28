@@ -71,7 +71,7 @@ This project demonstrates full-stack development skills including REST API creat
    - [Axios](https://axios-http.com/)
 
 🔹 **Database**
-    - [MySQL](https://www.mysql.com/)
+   - [MySQL](https://www.mysql.com/)
     
 
 ## Project Structure
