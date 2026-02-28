@@ -11,7 +11,7 @@ This project demonstrates full-stack development skills including REST API creat
 3. [Project Structure](#project-structure)
 4. [Installation](#installation)
 5. [Usage](#usage)
-6. [Docker Deployment](#docker-deployment-optional)
+6. [Screenshots](#Screenshots)
 
    ## Features
    
@@ -169,18 +169,19 @@ mvn spring-boot:run
 
 ### Using Eclipse IDE
 
-1.Open the project in Eclipse
-2.Right-click on
+ 1.Open the project in Eclipse
+
+ 2.Right-click on
 ```
 PersonalFinanceManagerApplication.java
 ```
-3. Click:
+ 3. Click:
    **Run As → Spring Boot App**
 
  Backend will start on:
  ```Code
      http://localhost:8086
-```
+ ```
 
 ### 2. Start the Frontend
 
