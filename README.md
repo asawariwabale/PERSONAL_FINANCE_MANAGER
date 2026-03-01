@@ -196,7 +196,7 @@ npm start
   
 
 
-### Screnshort
+### Screenshots
 
 ### login page :
 
